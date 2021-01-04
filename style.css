@@ -47,6 +47,7 @@ h2{
     border-radius: 5px;
     height:200px;
     background-color: whitesmoke;
+    overflow: scroll;
 }
 p{
     color: black;
@@ -68,3 +69,4 @@ p{
 footer{
     text-align: center;
 }
+
